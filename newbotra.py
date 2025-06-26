@@ -3,7 +3,7 @@ import time
 from telegram import Bot, Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = "PEGA_AQUÍ_T7220704086:AAHIooBbtT-Tei70ZodcsJY35RdE-Vp-oTA"  # 👈 El de @BotFather
+TOKEN = "7220704086:AAHIooBbtT-Tei70ZodcsJY35RdE-Vp-oTA"  # 👈 El de @BotFather
 bot = Bot(token=TOKEN)
 
 # Diccionario para guardar eventos a monitorear: {chat_id: url}
